@@ -1,0 +1,22 @@
+{
+  "name": "Weather",
+  "homepage": "https://github.com/gkanteres/weather_app",
+  "authors": [
+    "gkanteres <gregkanteres@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "bootstrap": "^3.3.6"
+  }
+}
